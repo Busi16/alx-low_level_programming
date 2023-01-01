@@ -5,7 +5,7 @@
 /*headers goes here*/
 
 /**
- * main - entry point
+ * main - Entry point
  * prints if random genrated # +, 0, -
  * return: always (0)
  */
