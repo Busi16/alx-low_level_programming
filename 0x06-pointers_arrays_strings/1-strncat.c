@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <unistd.h>
+#include "main.h"
 
 /**
- * main -  concatenates two strings
- * ...
+ * _strncat -  concatenates two strings
+ * @dest: pointed to string that is conatenated
+ * @src: source string
  */
 
 char *_strncat(char *dest, char *src, int n)
